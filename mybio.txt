@@ -1,0 +1,10 @@
+my name is: Christine Jaen 
+course/section: BSIT-1C(SPED)    
+age:21
+address: Purok 2, Brgy. Sampaloc, Sariaya Quezon
+father: Virtor Jaen
+mother: Emma Jaen
+sister: Shiela Jaen
+brother: Micheal Angelo Jaen
+little: Louie Jay Jaen
+Hobbies: Movie, TikTok, other
