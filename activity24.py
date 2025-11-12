@@ -1,0 +1,10 @@
+def GreetWithName(name):
+    print(f"Hi {name}, hope you have a nice day")
+    print("Welcome to the program!")
+    print("Enjoy your time here!")
+GreetWithName("Ryan")
+GreetWithName("Angelo")
+GreetWithName("Reyes")
+GreetWithName("Jaen")
+GreetWithName("ITCS102-1C Students")
+GreetWithName("Python Programmers")
